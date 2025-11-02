@@ -2,6 +2,9 @@
 
 已知26个字母具有不同的使用频率（可预设，也可手工输入），该程序实现了编程构建huffman树，生成huffman编码。
 
+## 参考博客
+https://oi-wiki.org/ds/huffman-tree/
+
 ## 网站推荐
 霍夫曼树生成器
 https://www.csfieldguide.org.nz/en/interactives/huffman-tree/
